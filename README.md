@@ -1,2 +1,2 @@
-# JavaADS
-O que aprendi na faculdade
+# ProjetosJava
+Desafios da Faculdade
